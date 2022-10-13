@@ -37,6 +37,7 @@ void sole_list() {
 }
 //bài 5 tìm số lớn nhất a,b,c
 // từ khóa dart list sort desending/asendign ngược/xuôi
+// thử commit git
 
 void main(){
   double a= 1.2,b=3.5,c=6.7;
